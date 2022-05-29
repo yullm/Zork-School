@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #000000;
+}
+
+#wrapper{
+	margin: 0 auto;
+	margin-top: 25px;
+	max-width: 480px;
+	color:#FB930F;
+	font-family: 'Monda', Arial, sans-serif;
+	border: 1px dotted #FB930F;
+	line-height: 18px;
+}
+
+#pageTitle{
+	padding-left : 5px;
+	padding-top : 5px;
+	line-height: 24px;
+}
+
+#displayText{
+	margin : 5px;
+	padding : 5px;
+	border: 1px dotted #FB930F;
+}
+
+#feedback{
+	margin : 5px;
+	padding : 5px;
+	border: 1px dotted #FB930F;
+	
+}
+
+#userText{
+	margin : 5px;
+	padding : 5px;
+	border: 1px dotted #FB930F;
+}
+
+#userText p, #userText i{
+	display: inline-block;
+}

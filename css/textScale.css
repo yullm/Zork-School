@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 89px;
+}
+
+h2 {
+	font-size: 67px;
+}
+
+h3 {
+	font-size: 50px;
+}
+
+h4 {
+	font-size: 37px;
+}
+
+.title {
+	font-size: 28px;
+}
+
+.subtitle {
+	font-size: 21px;
+}
+
+.footer {
+	font-size: 12px;
+}
+
+.footnote {
+	font-size: 9px;
+}
+
